@@ -1,1 +1,1 @@
-My first readme
+This is for the ALX Africa Software Engineering Program
